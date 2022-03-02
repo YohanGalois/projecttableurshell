@@ -1,6 +1,6 @@
 Auteurs:
 GALOIS YOHAN
-NOWAK STEEVEN
+
 Fonctionnalités:
 [cel] : permet d’obtenir la valeur de la cellule cel
 +(val1,val2) : somme de val1 et val2 où vali est soit un valeur numérique, soit une référence à une cellule, soit le résultat d’un autre calcul (ex : =+(3,+(l2c4,7)) eﬀectue la somme de 3 avec le résultat de la somme de 7 et du contenu de la cellule de ligne numéro 2 et de colonne 4)
