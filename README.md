@@ -26,6 +26,5 @@ shell(val) : remplace le contenu de la cellule par le résultat de la commande v
 Difficultés:
 Comment inverser les lignes et colonnes du fichier ?
 La recursivité est une partie qui a compliqué le travail du fait de la demande de verification a chaque fonction , ce qui explique le nombre de lignes de code .
-Part de Travail :
-GALOIS Yohan 60%
+
 
